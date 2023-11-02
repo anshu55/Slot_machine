@@ -1,3 +1,5 @@
+ https://anshu55.github.io/Slot_machine/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
